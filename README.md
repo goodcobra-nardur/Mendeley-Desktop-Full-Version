@@ -236,4 +236,4 @@ This repository serves as the official landing page for Mendeley Desktop. The so
 **Get the most recent version of Mendeley Desktop today!**
 
 ---
-**Last updated:** 2026-10-01 14:58:44 UTC
+**Last updated:** 2026-10-01 20:06:11 UTC
